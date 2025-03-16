@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 🚀 Profissional Em transição de carreira para Desenvolvimento Web Front-End <br>
 💡 Construindo projetos com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/>
